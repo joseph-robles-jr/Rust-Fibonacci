@@ -2,7 +2,7 @@
 
 **Project Title**:
 
-**Project Description**:
+**Project Description**: 
 
 **Project Goals**:
 

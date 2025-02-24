@@ -1,1 +1,1 @@
-02/24 |  IM       |Decided on the project (Fib number generoator in Rust), Hello World, Understanding the compiler. | 1hr
+02/24 | IM |Decided on the project (Fib number generoator in Rust), Hello World, Understanding the compiler. | 1hr
