@@ -1,5 +1,8 @@
 02/24 | IM | Decided on the project (Fib number gen and other math functions in Rust), Hello World, Understanding the compiler. | 1hr
 02/24 | IM | Made a basic factorial Program to demonstrate recursion and basic language Understanding. (Copilot OFF)| 1 hr
+02/25 | IM | Learned more about Memory management and how variable sharing and ownership works. | 2 hr 
+03/06 | IM | Implimended Fibinacci, improved modularity. Troubleshooted array variables. | 2hrs. 
+
 
 
 Sites used:
