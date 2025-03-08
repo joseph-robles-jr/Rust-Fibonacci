@@ -5,6 +5,16 @@
 03/07 | IM | Fixed Fibinacci(I think) Tried to figure out what other math functions I could impliment. I think I figured it out? | 1hrs 
 03/08 | IM | Replaced the info function with a basic menu option. Implimented Most of the math functions correctly (I think). Average, LCM, GCM, Power, Natural Numbers. I gave up on my goal of not using any AI. Project compiles and runs mostly correctly. | 3 Hrs 
 
+03/04 | worked on making some dialogue for the team project. | 1hr
+03/07 | Made more Dialogue, made a standard JSON map to hold dialogue for each character. | 2hr
+
+03/05 | In Class Meeting | 1hr 
+03/07 | In Class Meeting | 1hr
+03/12 | In Class Meeting | 1hr 
+03/14 | In Class Meeting | 1hr
+
+
+
 
 Sites used:
 
