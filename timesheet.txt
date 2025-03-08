@@ -2,7 +2,8 @@
 02/24 | IM | Made a basic factorial Program to demonstrate recursion and basic language Understanding. (Copilot OFF)| 1 hr
 02/25 | IM | Learned more about Memory management and how variable sharing and ownership works. | 2 hr 
 03/06 | IM | Implimended Fibinacci, improved modularity. Troubleshooted array variables. | 2hrs. 
-
+03/07 | IM | Fixed Fibinacci(I think) Tried to figure out what other math functions I could impliment. I think I figured it out? | 1hrs 
+03/08 | IM | Replaced the info function with a basic menu option. Implimented Most of the math functions correctly (I think). Average, LCM, GCM, Power, Natural Numbers. I gave up on my goal of not using any AI. Project compiles and runs mostly correctly. | 3 Hrs 
 
 
 Sites used:
